@@ -11,3 +11,8 @@
 拖曳与点击，测试事件是否冲突
 
 ![拖曳View](https://raw.githubusercontent.com/Mingyueyixi/DragView/master/preview/preview_1.gif)
+
+
+
+
+测试。。。。。。。
